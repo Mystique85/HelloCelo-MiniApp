@@ -1,0 +1,7 @@
+{
+  "name": "HelloCelo GM",
+  "description": "Send GM and view HelloCelo messages in Farcaster Mini App",
+  "icon": "https://link-to-icon.png",
+  "start_url": "https://Mystique85.github.io/HelloCelo-MiniApp/index.html",
+  "version": "1.0.0"
+}
